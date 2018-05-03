@@ -1,4 +1,4 @@
-# TTGO-T5-V1.8-Epaper
+# TTGO-T5-V1.9-Epaper
 
 ![image](https://github.com/LilyGO/TTGO-T5-V1.8-Epaper/blob/master/image/T5%20v1.9.jpg)
 
