@@ -10,7 +10,7 @@
 
 ### DEMO:https://github.com/LilyGO/TTGO-T5S-Epaper/tree/master/BT_SPEAKER
 
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/image1.jpg)
+
 
 ### 1.Upload the program
 
